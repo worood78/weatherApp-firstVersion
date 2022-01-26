@@ -1,0 +1,100 @@
+h1,
+h2,
+ul,
+footer {
+  color: #1870aa;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  text-transform: capitalize;
+}
+
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 25px;
+}
+ul {
+  font-size: 20px;
+  list-style: none;
+}
+footer {
+  text-align: center;
+}
+strong {
+  font-size: 50px;
+  color: #1870aa;
+}
+.card {
+  background-color: #feffdf;
+  box-shadow: 0px 0px 6px #1870aa;
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+  font-family: monospace;
+}
+.input,
+.search {
+  font-size: 18px;
+  font-family: monospace;
+  border-radius: 10px;
+  margin: 10px auto 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+.input {
+  background-color: #feffdf;
+  border: solid 3px #1870aa;
+  padding-right: 250px;
+}
+.search {
+  background-color: #5488ac;
+  color: white;
+  text-align: center;
+  border: solid 3px;
+}
+.search:hover {
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  background-color: #feffdf;
+  border: solid 3px #1870aa;
+  color: #216291;
+}
+
+.card-body1 {
+  margin-top: 20px;
+}
+.card-body2 {
+  margin-top: 90px;
+}
+#current-lucation-button {
+  font-size: 18px;
+  font-family: monospace;
+  border-radius: 10px;
+  margin: 10px auto 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+#current-lucation-button {
+  background-color: #5488ac;
+  color: white;
+  text-align: center;
+  border: solid 3px;
+}
+#current-lucation-button:hover {
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  background-color: #feffdf;
+  border: solid 3px #1870aa;
+  color: #216291;
+}
+#temperature {
+  font-size: 75px;
+  font-weight: bolder;
+  color: #1870aa;
+  margin-right: 0;
+}
