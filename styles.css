@@ -1,8 +1,7 @@
 h1,
 h2,
-ul,
-footer {
-  color: #1870aa;
+ul {
+  color: #0262a1;
   font-family: "Poppins", sans-serif;
   font-weight: bolder;
   text-transform: capitalize;
@@ -24,6 +23,18 @@ footer {
 strong {
   font-size: 50px;
   color: #1870aa;
+}
+.footer {
+  color: #0262a1;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: auto;
+}
+.builder {
+  font-weight: bold;
+  color: #c75454;
 }
 .card {
   background-color: #feffdf;
