@@ -17,9 +17,7 @@ ul {
   font-size: 20px;
   list-style: none;
 }
-footer {
-  text-align: center;
-}
+
 strong {
   font-size: 50px;
   color: #1870aa;
@@ -71,6 +69,11 @@ strong {
   transition: all 0.2s ease-in-out;
   background-color: #feffdf;
   border: solid 3px #1870aa;
+  color: #216291;
+}
+.builder:hover {
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
   color: #216291;
 }
 
